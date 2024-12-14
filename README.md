@@ -20,13 +20,12 @@ The **Calculator Mobile App** was created to:
   - Optimized for smooth performance on Android devices.
 
 ## Screenshots
-### Home Screen
-![Home Screen](screenshot1.png)
 
-### Performing a Calculation
-![Calculation Example](screenshot2.png)
+![Home Screen](ss6.png)
 
-*(Replace `screenshot1.png` and `screenshot2.png` with the actual screenshot file names of your app.)*
+
+
+
 
 ## Technologies Used
 - **Java**
